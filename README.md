@@ -13,7 +13,7 @@
   ##
  
 <div> 
-  <a href = "https://replit.com/@crystyanmarins"><img src="https://aleen42.github.io/badges/src/reddit.svg" target="_blank"></a>
+  <a href = "https://replit.com/@crystyanmarins"><img src="	https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
   <a href = "mailto:crystyanmarins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/crystyan-ribeiro-marins-843a8032a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
